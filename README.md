@@ -82,7 +82,7 @@ gateway?.DisableLight();
 gateway?.StartPlayMusic(1); // Track number 1 (tracks range is 0-8, 10-13, 20-29)
 Thread.Sleep(5000);
 gateway?.StopPlayMusic();
-
+```
 Tracks:
 Alarms
     0 - Police car 1
@@ -112,7 +112,7 @@ Alarm clock
     27 - MusicBox
     28 - Orange
     29 - Thinker
-```
+
 
 ### 2. Temperature and humidity sensor
 ![](http://i1.mifile.cn/a1/T1xKYgBQhv1R4cSCrK!200x200.png)
