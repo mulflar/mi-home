@@ -82,6 +82,36 @@ gateway?.DisableLight();
 gateway?.StartPlayMusic(1); // Track number 1 (tracks range is 0-8, 10-13, 20-29)
 Thread.Sleep(5000);
 gateway?.StopPlayMusic();
+
+Tracks:
+Alarms
+    0 - Police car 1
+    1 - Police car 2
+    2 - Accident
+    3 - Countdown
+    4 - Ghost
+    5 - Sniper rifle
+    6 - Battle
+    7 - Air raid
+    8 - Bark
+
+Doorbells
+    10 - Doorbell
+    11 - Knock at a door
+    12 - Amuse
+    13 - Alarm clock
+
+Alarm clock
+    20 - MiMix
+    21 - Enthusiastic
+    22 - GuitarClassic
+    23 - IceWorldPiano
+    24 - LeisureTime
+    25 - ChildHood
+    26 - MorningStreamLiet
+    27 - MusicBox
+    28 - Orange
+    29 - Thinker
 ```
 
 ### 2. Temperature and humidity sensor
